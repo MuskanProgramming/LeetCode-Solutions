@@ -20,8 +20,6 @@
  * - Calculate profit each time a new maximum price appears after buying.
  */
 
- package ArraysSol;
-
  public class BestTimeToBuyAndSellStock {
  
      // Brute Force Approach - O(n²) Time, O(1) Space

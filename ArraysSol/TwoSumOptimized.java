@@ -15,8 +15,6 @@
     If yes, return the stored index and current index.
 */
 
-package ArraysSol;
-
 import java.util.HashMap;
 
 public class TwoSumOptimized {

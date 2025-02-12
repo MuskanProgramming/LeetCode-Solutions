@@ -14,9 +14,6 @@
     If nums[i] + nums[j] == target, return indices [i, j]    
 */
 
-
-package ArraysSol;
-
 public class TwoSumBruteForce {
     public static int[] twoSum(int[] nums, int target) {
         
